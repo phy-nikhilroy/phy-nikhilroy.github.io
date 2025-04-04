@@ -1,0 +1,4 @@
+title: 'Your Name Resume'
+theme: minima
+plugins:
+  - jekyll-seo-tag
